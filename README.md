@@ -75,7 +75,7 @@
 
   `pip install -r requirements.txt`
 
-- 设置定时任务，例如
+- 设置定时任务，
 
   `30 9 * * * python /home/kale/bupt-clockIn/clockIn.py`
 
